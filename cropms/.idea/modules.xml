@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/crop-Service/crop-Service.iml" filepath="$PROJECT_DIR$/crop-Service/crop-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cropms.iml" filepath="$PROJECT_DIR$/.idea/cropms.iml" />
+    </modules>
+  </component>
+</project>
